@@ -6,7 +6,7 @@
 * **Location:** Local upload
 * **Target Variable:** `price` (House price in INR)
 
-### 🛠️ **Tools & Libraries**
+### **Tools & Libraries**
 
 * Python
 * Pandas
@@ -15,7 +15,7 @@
 * Matplotlib
 * Seaborn
 
-### ✅ **Steps Performed**
+### **Steps Performed**
 
 1. **Loaded the dataset**
    * Checked dataset shape, used `head()` and `info()` for basic understanding.
